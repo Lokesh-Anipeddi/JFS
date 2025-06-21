@@ -27,6 +27,11 @@
 
 - ⚡ Fun fact **adf;ldad**
 
+# Foobar
+<a href="https://codepen.io/adf;ldad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="adf;ldad" height="30" width="40" /></a>
+<a href="https://dev.to/adf;ldad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adf;ldad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adf;ldad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adf;ldad" height="30" width="40" /></a>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
